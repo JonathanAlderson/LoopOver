@@ -12,7 +12,7 @@ Most of the difficult comes with the Tesseract library
 and correctly reading the letters on the screen.
 Even when the letters are large and clear.
 
-![1](/example1.png)
-![2](/example2.png)
-![3](/example3.png)
+![1](/example1.PNG)
+![2](/example2.PNG)
+![3](/example3.PNG)
 ![4](/result_bw.png)
